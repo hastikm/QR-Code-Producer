@@ -7,7 +7,7 @@ click [🌟hear](https://hastikm.github.io/QR-Code-Producer/docs/) to see demo
 
 ## QR Code Generator: This project provides a simple and intuitive interface for generating QR codes quickly and efficiently
 
-![QR-CODE](![alt text](image.png))
+!(![alt text](image.png))
 
 ----
 
